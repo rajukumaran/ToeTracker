@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <head>
-    <title>Modal Popover</title>
+    <title>Toe Tracker</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="lib/bootstrap-2.1.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="lib/bootstrap-2.1.1/docs.css" rel="stylesheet">
