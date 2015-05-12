@@ -4,3 +4,9 @@ c:\users\rajukumaran\documents\visual studio 2013\Projects\ToeTracker1\ToeTracke
 c:\users\rajukumaran\documents\visual studio 2013\Projects\ToeTracker1\ToeTracker1\obj\Debug\ToeTracker1.dll
 c:\users\rajukumaran\documents\visual studio 2013\Projects\ToeTracker1\ToeTracker1\obj\Debug\ToeTracker1.pdb
 c:\users\rajukumaran\documents\visual studio 2013\Projects\ToeTracker1\ToeTracker1\obj\Debug\ToeTracker1.csprojResolveAssemblyReference.cache
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.dll.config
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.dll
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.pdb
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Debug\ToeTracker1.csprojResolveAssemblyReference.cache
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Debug\ToeTracker1.dll
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Debug\ToeTracker1.pdb

@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\ToeTrackerHostDone.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -67,6 +68,21 @@
   <ItemGroup>
     <Content Include="AuthFailed.aspx" />
     <Content Include="BetaPageNotFound.aspx" />
+    <Content Include="bg2.png" />
+    <Content Include="lib\bootstrap-2.1.1\css\bootstrap.css" />
+    <Content Include="lib\bootstrap-2.1.1\css\bootstrap.min - Copy.css" />
+    <Content Include="lib\bootstrap-2.1.1\css\bootstrap.min.css" />
+    <Content Include="lib\bootstrap-2.1.1\docs.css" />
+    <Content Include="lib\bootstrap-2.1.1\img\glyphicons-halflings-white.png" />
+    <Content Include="lib\bootstrap-2.1.1\img\glyphicons-halflings.png" />
+    <Content Include="lib\bootstrap-2.1.1\js\bootstrap.js" />
+    <Content Include="lib\bootstrap-2.1.1\js\bootstrap.min.js" />
+    <Content Include="lib\jquery-1.8.2.min.js" />
+    <Content Include="lib\prettify.css" />
+    <Content Include="lib\prettify.js" />
+    <Content Include="logo4.png" />
+    <Content Include="search.png" />
+    <Content Include="src\bootstrap-modal-popover.js" />
     <Content Include="Web.config" />
     <Content Include="Login.aspx" />
   </ItemGroup>

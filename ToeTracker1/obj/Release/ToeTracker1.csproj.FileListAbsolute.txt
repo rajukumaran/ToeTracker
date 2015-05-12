@@ -1,0 +1,6 @@
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.dll.config
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.dll
+C:\ToeTracker\ToeTracker\ToeTracker1\bin\ToeTracker1.pdb
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Release\ToeTracker1.csprojResolveAssemblyReference.cache
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Release\ToeTracker1.dll
+C:\ToeTracker\ToeTracker\ToeTracker1\obj\Release\ToeTracker1.pdb

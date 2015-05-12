@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7uEXjqb9LkaW3nWsi4kA3gAAAAACAAAAAAAQZgAAAAEAACAAAAA33yR/vTLo6LvgzPNHYqh303U8IKScJYqkFfsQPTqMMAAAAAAOgAAAAAIAACAAAADMwwqSMVUuvf3QVZXgoYWdpAE9EKLmFiqSa9hnzvbpmSAAAABL4CZVD18Jn41gTABbHYqmvLTo/FlE5CM5REuGgSfEekAAAABELp3sEogeSj3eo0jjLwZlhA564/7YO7yWZBqECRVnQcXjMwtkpW1oUuRzP/WYDwZoS1nCCLU2Utp/Upnn6GtC</EncryptedPassword>
+    <_PublishTargetUrl>ftp://toetracker.com/httpdocs</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AuthFailed.aspx">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="BetaPageNotFound.aspx">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="bg2.png">
+      <publishTime>05/12/2015 17:12:47</publishTime>
+    </File>
+    <File Include="bin/ToeTracker1.dll">
+      <publishTime>05/12/2015 17:03:19</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/css/bootstrap.css">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/css/bootstrap.min - Copy.css">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/css/bootstrap.min.css">
+      <publishTime>05/12/2015 15:09:08</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/docs.css">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/img/glyphicons-halflings-white.png">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/img/glyphicons-halflings.png">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/js/bootstrap.js">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/bootstrap-2.1.1/js/bootstrap.min.js">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/jquery-1.8.2.min.js">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/prettify.css">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="lib/prettify.js">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="logo4.png">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="search.png">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="src/bootstrap-modal-popover.js">
+      <publishTime>05/12/2015 13:41:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2015 15:57:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
