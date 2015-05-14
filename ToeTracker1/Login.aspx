@@ -16,14 +16,14 @@
     }
 </style>
 </head>
-<body style="background: linear-gradient(rgb(237, 238, 250), rgb(220, 222, 245)) no-repeat;height:100%;padding-top:0px">
+<body style="height:100%;padding-top:0px">
 
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner" style="background-image: linear-gradient(rgb(237, 238, 250), rgb(220, 222, 245));top:0px;position:absolute;width:100%">
-        <div class="container">
+        <div class="container" style="text-align:center">
 		<!--<img src="logo.png" style="width:150px"/>-->
 			<a href="#FindTrainer" role="button" class="btn btn-primary btn-large" data-toggle="modal-popover" data-placement="bottom" style="margin-top:2px;margin-bottom:2px;" id="btnFindTrainer">Find Trainer &nbsp;<img src="search.png"> </a>  </span>
-            <a href="#popupDemo" role="button" class="btn btn-primary btn-large" data-toggle="modal-popover" data-placement="bottom" style="float:right;margin-top:2px;margin-bottom:2px;margin-right:20px" id="btnLogin">Already Member?</a>
+            <a href="#popupDemo" role="button" class="btn btn-primary btn-large" data-toggle="modal-popover" data-placement="bottom" style="margin-top:2px;margin-bottom:2px" id="btnLogin">Already Member?</a>
            
 			<!--<ul class="nav">
                 <li class="active"><a href="http://scruffles.github.com/BootstrapModalPopover/">Home</a></li>
@@ -32,7 +32,7 @@
         </div>
     </div>
 </div>
-    <div style="top: 40px; width: 100%; text-align: center; position: absolute;">
+    <div style="width: 100%; text-align: center; position: absolute;left:0px" id="divContainer">
 <img src="bg2.png"/>
         <div id="footer">                
                 Copyright Toe Tracker © 2015. All rights reserved (BETA).            

@@ -69,6 +69,7 @@
     <Content Include="AuthFailed.aspx" />
     <Content Include="BetaPageNotFound.aspx" />
     <Content Include="bg2.png" />
+    <Content Include="ico.ico" />
     <Content Include="lib\bootstrap-2.1.1\css\bootstrap.css" />
     <Content Include="lib\bootstrap-2.1.1\css\bootstrap.min - Copy.css" />
     <Content Include="lib\bootstrap-2.1.1\css\bootstrap.min.css" />

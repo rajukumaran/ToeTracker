@@ -11,16 +11,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="AuthFailed.aspx">
-      <publishTime>05/12/2015 13:41:05</publishTime>
+      <publishTime>05/12/2015 17:53:10</publishTime>
     </File>
     <File Include="BetaPageNotFound.aspx">
-      <publishTime>05/12/2015 13:41:05</publishTime>
+      <publishTime>05/13/2015 09:42:49</publishTime>
     </File>
     <File Include="bg2.png">
       <publishTime>05/12/2015 17:12:47</publishTime>
     </File>
     <File Include="bin/ToeTracker1.dll">
-      <publishTime>05/12/2015 17:03:19</publishTime>
+      <publishTime>05/13/2015 14:45:22</publishTime>
+    </File>
+    <File Include="ico.ico">
+      <publishTime>05/13/2015 09:42:57</publishTime>
     </File>
     <File Include="lib/bootstrap-2.1.1/css/bootstrap.css">
       <publishTime>05/12/2015 13:41:05</publishTime>
@@ -29,7 +32,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/12/2015 13:41:05</publishTime>
     </File>
     <File Include="lib/bootstrap-2.1.1/css/bootstrap.min.css">
-      <publishTime>05/12/2015 15:09:08</publishTime>
+      <publishTime>05/13/2015 15:24:28</publishTime>
     </File>
     <File Include="lib/bootstrap-2.1.1/docs.css">
       <publishTime>05/12/2015 13:41:05</publishTime>
@@ -56,10 +59,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/12/2015 13:41:05</publishTime>
     </File>
     <File Include="Login.aspx">
-      <publishTime>05/12/2015 13:41:05</publishTime>
+      <publishTime>05/13/2015 15:09:05</publishTime>
     </File>
     <File Include="logo4.png">
-      <publishTime>05/12/2015 13:41:05</publishTime>
+      <publishTime>05/13/2015 09:42:57</publishTime>
     </File>
     <File Include="search.png">
       <publishTime>05/12/2015 13:41:05</publishTime>
@@ -68,7 +71,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/12/2015 13:41:05</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/12/2015 15:57:39</publishTime>
+      <publishTime>05/13/2015 11:05:12</publishTime>
     </File>
   </ItemGroup>
 </Project>
