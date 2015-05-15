@@ -17,7 +17,7 @@
 </style>
 </head>
 <body style="height:100%;padding-top:0px">
-
+    <form id="form1" runat="server">
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner" style="background-image: linear-gradient(rgb(237, 238, 250), rgb(220, 222, 245));top:0px;position:absolute;width:100%">
         <div class="container" style="text-align:center">
@@ -66,7 +66,8 @@
            </tr>
            <tr>
                <td style="padding-top:10px">
-               <a href="/AuthFailed.aspx" role="button" class="btn btn-primary btn-large"  style="width:150px;text-align:center" >Sign In</a>
+                   <asp:LinkButton ID="btnSignIn" role="button" CssClass="btn btn-primary btn-large"  style="width:150px;text-align:center" runat="server" Text="Sign In" OnClick="btnSignIn_Click"></asp:LinkButton>
+               
                </td>
            </tr>
        </table>
@@ -109,7 +110,7 @@
 <script type="text/javascript" src="lib/bootstrap-2.1.1/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="src/bootstrap-modal-popover.js"></script>
 
-
+</form>
 </body>
 
 </html>
